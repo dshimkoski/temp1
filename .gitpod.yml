@@ -6,3 +6,8 @@ ports:
     onOpen: open-preview
   - port: 4040
     onOpen: open-preview
+vscode:
+  extensions:
+    - eamodio.gitlens
+    - esbenp.prettier-vscode
+    - usernamehw.errorlens
